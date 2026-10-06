@@ -214,4 +214,4 @@ StExBar is available as a complete free version, providing all features and upda
 Ready to enhance your Windows file explorer? **Download StExBar now and experience the difference!**
 
 ---
-**Last updated:** 2026-10-06 09:35:47 UTC
+**Last updated:** 2026-10-06 16:23:09 UTC
